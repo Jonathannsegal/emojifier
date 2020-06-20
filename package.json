@@ -1,0 +1,15 @@
+{
+    "name": "@jonathansegal/emojifier",
+    "version": "1.0.0",
+    "description": "😃 Generates strings of emojis 🎉",
+    "license": "MIT",
+    "repository": "jonathannsegal/emojifier",
+    "main": "index.js",
+    "keywords": [
+        "emoji",
+        "npm",
+        "package",
+        "jonathannsegal"
+    ],
+    "author": "Jonathan Segal"
+}
