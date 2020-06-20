@@ -1,9 +1,12 @@
 {
-    "name": "@jonathansegal/emojifier",
-    "version": "2.0.0",
+    "name": "@jonathannsegal/emojifier",
+    "version": "2.1.0",
     "description": "😃 Generates strings of emojis 🎉",
     "license": "MIT",
     "repository": "jonathannsegal/emojifier",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
     "main": "index.js",
     "keywords": [
         "emoji",
